@@ -1,0 +1,64 @@
+{
+  "challenge": {
+    "alliances": 3,
+    "bases": "3",
+    "map": "Emergence",
+    "maxPlayers": 10,
+    "powerLevel": 2,
+    "scavengers": 2,
+    "version": 2,
+    "name": "Warzone2100",
+    "spectatorHost": true,
+    "openSpectatorSlots": 0
+  },
+  "locked": {
+    "power": true,
+    "alliances": false,
+    "teams": false,
+    "difficulty": true,
+    "ai": true,
+    "scavengers": true,
+    "bases": true,
+    "position": false
+  },
+  "player_0": {
+    "position": 0,
+    "team": 0
+  },
+  "player_1": {
+    "position": 1,
+    "team": 0
+  },
+  "player_2": {
+    "position": 2,
+    "team": 0
+  },
+  "player_3": {
+    "position": 3,
+    "team": 0
+  },
+  "player_4": {
+    "position": 4,
+    "team": 0
+  },
+  "player_5": {
+    "position": 5,
+    "team": 1
+  },
+  "player_6": {
+    "position": 6,
+    "team": 1
+  },
+  "player_7": {
+    "position": 7,
+    "team": 1
+  },
+  "player_8": {
+    "position": 8,
+    "team": 1
+  },
+  "player_9": {
+    "position": 9,
+    "team": 1
+  }
+}
